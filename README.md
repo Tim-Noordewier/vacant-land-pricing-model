@@ -1,6 +1,6 @@
 # vacant-land-pricing-model
-==============================<BR>
-ABOUT THIS PROJECT
+<BR>
+ABOUT THIS PROJECT<BR>
 This project is being prepared as part of my Dartmouth Professional Certificate in Applied Data Science program for the 2020-2021 session. I've made this project open to the public on Github because I want to eventually share the results and methods performed with the open source Python / Data Science community. The aim of this project is to analyze a Redfin dataset (.csv) of all the land-only (vacant, non use-specific) real estate transactions in Garland County, AR in the five year period ending in December 2020 to ultimately find an alternative method for creating a pricing model in the absence of typical metrics.
 
 Unlike a typical linear regression analysis of real estate using housing features such as number of bedrooms, bathroom, off-street parking ...etc. In Phase 1 of this project, I seek to perform a K-Means cluster analysis of transaction prices (in price per acre) by geodetic coordinates only. The hypothesis is that for vacant land, other features such as those for typical residential regression models are not applicable, and clustering by geographic coordinates removes arbitrary town/city boundaries and has the (potential) capability to identify particular subdivisions that are worth more or less than nearby similar properties.
@@ -11,11 +11,11 @@ In Phase 3, I will seek to combine results from the two different models uniquel
 
 I welcome any suggestions on ways to perform the above tasks. However, I must also be up front in that I am performing this project for academic credit, and I will need the work to be my own at least until I have completed the Dartmouth program, which will be around the end of April 2021.
 
-==============================<BR>
-DATA
+<BR>
+DATA<BR>
 
-==============================<BR>
-PYTHON NOTEBOOKES
+<BR>
+PYTHON JUPYTER NOTEBOOKS<BR>
 
 
-==============================<BR>
+<BR>
