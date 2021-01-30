@@ -1,0 +1,1 @@
+# vacant-land-pricing-model
